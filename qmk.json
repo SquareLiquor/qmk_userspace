@@ -1,4 +1,7 @@
 {
     "userspace_version": "1.1",
-    "build_targets": [["wilba_tech/rama_works_m60_a", "via"]]
+    "build_targets": [
+        ["wilba_tech/rama_works_m60_a", "jk"],
+        ["ai03/lily", "jk"]
+    ]
 }
